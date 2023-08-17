@@ -1,0 +1,192 @@
+.revers_main{
+  background-color: #FFFFFF;
+}
+.card{
+  text-align: center;
+  display: block;
+
+}
+.card p{
+  
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.revers_no{
+  margin-top: 30px !important;
+  min-width: 60%;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+.cimg img{
+  position: relative;
+  left: 50px; 
+  bottom: 30px;
+}
+.cimga{
+  margin-top: 280px;
+}
+.cimga img {
+  right: 50px;
+  position: relative;
+}
+.as{
+  font-size: 25px;
+  margin-top: 30px;
+  font-family: 'Montserrat Alternates', sans-serif;
+}
+.arr{
+  margin-top: 20px;
+}
+.card p {
+  font-size: 20px;
+}
+.wer{
+  color: #E93333;
+}
+.revers_4{
+  display: flex;
+  flex-wrap: wrap;
+
+}
+.revers_sad{
+  margin-left: 10%;
+}
+.revers_molot{
+  margin-top: 100px;
+}
+.revers_you{
+  min-height: 100px !important;
+  display: flex;
+  flex-wrap: wrap;
+}
+.eer{
+  position: relative;
+  left: 130px;
+  bottom: 70px;
+}
+.revers_position{
+  margin-left: 10%;
+  position: relative;
+  bottom: 100px;
+  right: 70px;
+}
+.efr{
+  position: relative;
+  left: 130px;
+bottom: 40px;
+}
+
+.error{
+  text-align: center;
+}
+body{
+  overflow-x: hidden;
+}
+@media(max-width:814px){
+.revers_sad{
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  width: 90% !important;
+  position:   none;
+}
+.erer{
+  margin-right: 45%;
+  width:90%;
+}
+.eer{
+  width: 25% !important;
+}
+.revers_molot{
+  width: 90%  ;
+  margin: auto;
+  margin-bottom: 50px !important;
+}
+.revers_position{
+  margin-top: 30px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  width: 90% !important;
+  position:   none;
+}
+.efr1{
+  margin-right: 26%;
+  width: 90%;
+}
+.efr{
+  width: 25% !important;
+}
+.revers_kamaz{
+  width: 90%  ;
+  
+}
+.error img{
+  width: 90%;
+}
+
+}
+@media(max-width:524px){
+  .card p {
+    font-size: 17px;
+    
+  }
+  .cimg{
+    width: 15%;
+    
+  }
+  .cimga{
+    width: 15%;
+  }
+ 
+
+  .cimg img{
+   width: 300%;
+
+    
+  }
+  .cimga img{
+    width: 200%;
+    margin-top: 80px;
+  }
+  .revers_molot img{
+    width: 100%;
+    margin-right: 10%;
+  }
+  .revers_kamaz img{
+    width: 110%;
+    margin-right: 10%;
+  }
+}
+@media(max-width:384px){
+    .cimg{
+      margin-top: 70px;
+    }
+  .as{
+    
+    font-size: 15px;
+  }
+  .cimg img {
+    margin-top: 30px;
+  }
+  .erer{
+    margin-top: 20px;
+  }
+  .efr1{
+    margin-left: 10%;
+  }
+}
+@media(max-width:340px){
+  .efr1{
+    margin-left: 20%;
+  }
+  .eer{
+    margin-right: 20%;
+    margin-top: 30px;
+  }
+  .revers_no{
+    width: 95%;
+    margin: auto;
+  }
+  
+}
