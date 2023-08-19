@@ -1,9 +1,11 @@
 import './App.css';
-import Stroy from './pages/Stroitelstvo'
+// import Stroy from './pages/Stroitelstvo'
+import Dif from '../src/Difer'
 function App() {
   return (
     <div >
-  <Stroy />
+
+<Dif />
 </div>
   );
 }
